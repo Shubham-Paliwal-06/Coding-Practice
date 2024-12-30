@@ -1,0 +1,5 @@
+67
+This number will be taken as input.
+But if you use 'w' mode it will clear all the data of the file and then start writing.
+if you use 'a' mode it will write the file after from last location. For eg.
+The number written is: 67496749
